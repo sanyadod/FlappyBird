@@ -4,7 +4,7 @@ A Python implementation of the classic arcade-style game **Flappy Bird**. In thi
 
 ---
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 - The bird **automatically moves forward** and descends due to gravity.
 - Press the **spacebar** or **up arrow key** to make the bird flap and ascend.
@@ -13,7 +13,7 @@ A Python implementation of the classic arcade-style game **Flappy Bird**. In thi
 
 ---
 
-## 🛠️ Features
+## Features
 
 - Simple 2D graphics with smooth gameplay
 - Randomized pipe gaps for dynamic challenges
@@ -23,7 +23,7 @@ A Python implementation of the classic arcade-style game **Flappy Bird**. In thi
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 Make sure you have the following Python libraries installed:
 
